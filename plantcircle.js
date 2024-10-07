@@ -6,7 +6,7 @@ const fixedCircle = PI * radius * radius;
 const eachNeed= 0.8;
 
 const fistWeekNum=20;
-let aftWeeks=();
+let aftWeeks=5;
 let totalweeks = aftWeeks+1;
 
 const totNumAftWeek= fistWeekNum* Math.pow(2, aftWeeks);
